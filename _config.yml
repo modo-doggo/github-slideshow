@@ -115,4 +115,5 @@ exclude: [
   "reveal.js/package.json"
 ]
 
-theme: jekyll-theme-Hacker
+theme: jekyll-theme-Tactile
+
